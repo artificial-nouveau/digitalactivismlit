@@ -5,7 +5,7 @@ List of publications about digital activism and algorithmic resistance
 
 Free PDF:https://www.tandfonline.com/doi/pdf/10.1080/1369118X.2019.1657162 
 
-Julia Velkovaaand Anne Kaunba\
+Julia Velkova and Anne Kaunba
 
 Centre for Consumer Society Research, University of Helsinki, Helsinki, Finland;\
 Media and CommunicationStudies Department, Södertörn University, Stockholm, Sweden\
@@ -19,10 +19,10 @@ https://doi.org/10.1016/j.intmar.2013.09.002
 
 Highlights
 
-• The evolution of consumer empowerment is described through four distinct sources.
-• We highlight technology's evolutionary role in the development of these power sources.
-• We uncover evidence of increased consumer power, supporting the premise of a power shift.
-• We also note a shifting balance of power, away from consumers and toward firms.
+• The evolution of consumer empowerment is described through four distinct sources.\
+• We highlight technology's evolutionary role in the development of these power sources.\
+• We uncover evidence of increased consumer power, supporting the premise of a power shift.\
+• We also note a shifting balance of power, away from consumers and toward firms.\
 • There exists a technology empowerment/disempowerment paradox.
 
 Abstract
@@ -33,8 +33,8 @@ The predictions of growing consumer power in the digital age that predated the t
 # From digital activism to algorithmic resistance 
 
 Free PDF: http://orca.cf.ac.uk/111240/1/2018%20Emiliano_Trere_From%20digital%20activism%20to%20algorithmic%20resistance%20%28003%29.pdf 
-Emiliano Treré, Cardiff University, TrereE@cardiff.ac.uk\
+Emiliano Treré
 
-Introduction and outline\
+Introduction and outline
 
 Discourses  on  algorithms  are  increasingly  populating  the  media  and pervading public conversations. Newspapers  are  filled  with  stories  on  how  algorithmic  power  is  impactingour choices in the realms of politics, journalism, music, sport, research, and healthcare. Therecent  inclusion  of  the  term  in  the  influential  “Digital  Keywords”  volume  (Peters  2016) also signals a growing interest in the concept and its consequences within various fields and strands  of  research  in  the  academia,  and  especially  within  media  studies.  As  Gillespie  (2016) has pointed out, the term appears in recent scholarship not only as a noun but alsoincreasingly   as   an   adjective,   in   relation   to   issues   of   identity,   culture,   ideology,   accountability, governance, imaginary  and  regulation.  In  this  chapter,   I  focus  on  the  changes that algorithmic power is bringing to the realm of politics and the transformations of digital activism. The chapter begins with a brief outline of the significance of algorithms in  digital politics.  Then,  it  focuses  on  two  diverse  conceptions  and  manifestations  of algorithmic   power   in politics   (algorithm   as   propaganda/repression   and   algorithm   as   appropriation/ resistance) that emerge from the explorations of two case studies. 
